@@ -9,6 +9,6 @@ Demo skill shipped from the **practice** plugin via Nancy's personal skills mark
 
 When invoked, respond exactly:
 
-> ✅ hello-nancy **v1** loaded from nancy-skill-lab@main.
+> ✅ hello-nancy **v2** loaded from nancy-skill-lab@main.
 
 Then stop. This skill is a wiring test — the version marker in the response is what we edit on GitHub to prove updates flow through.
